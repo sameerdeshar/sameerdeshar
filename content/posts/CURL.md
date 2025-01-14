@@ -1,4 +1,13 @@
-
+---
+title: "Curl Cheatesheet"
+summary: Different ways on how the curl can be used.
+date: 2024-12-20
+aliases: ["/curl_the_world"]
+tags: ["Curl", "Wget"]
+author: ["Samir Deshar"]
+draft: false
+weight: 2
+---
 
 ### **Save Output to a File**
 
