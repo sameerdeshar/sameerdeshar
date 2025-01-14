@@ -64,7 +64,7 @@ params:
     
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  description: "Don Bhai Deshar - https://github.com/sameerdesar"
+  description: "Samir Deshar - https://github.com/sameerdesar"
   author: Samir Deshar
   # author: ["Me", "You"] # multiple authors
 
@@ -101,7 +101,8 @@ params:
   homeInfoParams:
     Title: "Meet Samir Deshar 👋"
     Content: > 
-      ![DON DON DON](images/donketa.jpg)
+      ![Profile](images/profile.jpg)
+      If you are here you already know me..Let's learn together.
 
       🚀 **Defender of Digital Frontiers**  
         With an 🛡️ **F5 Firewall** in hand, I:  
