@@ -1,13 +1,4 @@
----
-title: "What is SSO"
-summary: This is sparta
-date: 2024-12-20
-aliases: ["/curl_the_world"]
-tags: ["Curl", "Wget"]
-author: ["Samir Deshar"]
-draft: false
-weight: 2
----
+
 
 ### **Save Output to a File**
 

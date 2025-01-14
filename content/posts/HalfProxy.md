@@ -1,12 +1,14 @@
 ---
-title: "What is SSO"
-summary: This is sparta
-date: 2024-12-20
-aliases: ["/curl_the_world"]
-tags: ["Curl", "Wget"]
-author: ["Samir Deshar"]
-draft: false
-weight: 2
+author: ["Aditya Telange"]
+title: "Code Syntax Guide"
+date: "2019-03-10"
+description: "Sample article showcasing basic code syntax and formatting for HTML elements."
+summary: "Sample article showcasing basic code syntax and formatting for HTML elements."
+tags: ["markdown", "syntax", "code", "gist"]
+categories: ["themes", "syntax"]
+series: ["Themes Guide"]
+ShowToc: true
+TocOpen: true
 ---
 
 So basically the half proxies are those that initiate connection to the proxy and forward the connection to the server. While the server repose directly back to the client.

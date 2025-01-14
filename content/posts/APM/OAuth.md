@@ -1,13 +1,4 @@
----
-title: "What is OAuth"
-summary: This is sparta
-date: 2024-12-20
-aliases: ["/curl_the_world"]
-tags: ["Curl", "Wget"]
-author: ["Samir Deshar"]
-draft: false
-weight: 3
----
+
 
 **OAuth** is a method for authorization that allows access to third-party applications or services without requiring the sharing of usernames and passwords.
 ## How OAuth 2.0 Works?
