@@ -1,10 +1,9 @@
 ---
-author: ["Aditya Telange"]
-title: "Code Syntax Guide"
-date: "2019-03-10"
-description: "Sample article showcasing basic code syntax and formatting for HTML elements."
-summary: "Sample article showcasing basic code syntax and formatting for HTML elements."
-tags: ["markdown", "syntax", "code", "gist"]
+author: ["Samir Deshar"]
+title: "Learning Kerberos"
+date: "2024-12-04"
+summary: "What is kerberos and how is it used in SSO"
+tags: ["kerberos", "ticket", "SSO", "authentication", "authorization"]
 categories: ["themes", "syntax"]
 series: ["Themes Guide"]
 ShowToc: true

@@ -101,8 +101,12 @@ params:
   homeInfoParams:
     Title: "Meet Samir Deshar 👋"
     Content: > 
-      ![Profile](images/profile.jpg)
+    
+      <img src="images/profile.jpg" style="border-radius: 50%; width: 100px; height: 100px; object-fit: cover;" alt="Profile">
+
       If you are here you already know me..Let's learn together.
+      <br>
+      <br>
 
       🚀 **Defender of Digital Frontiers**  
         With an 🛡️ **F5 Firewall** in hand, I:  

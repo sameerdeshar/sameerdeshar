@@ -1,10 +1,9 @@
 ---
-author: ["Aditya Telange"]
-title: "Code Syntax Guide"
-date: "2019-03-10"
-description: "Sample article showcasing basic code syntax and formatting for HTML elements."
-summary: "Sample article showcasing basic code syntax and formatting for HTML elements."
-tags: ["markdown", "syntax", "code", "gist"]
+author: ["Samir Deshar"]
+title: "Understanding DNS : How the Internet Knows Where to Go"
+date: "2024-11-19"
+summary: "Learn about how the internet knows where to go and how it does it."
+tags: [ dns,IP,TLD,authoratative-server,root-servers,aaa]
 categories: ["themes", "syntax"]
 series: ["Themes Guide"]
 ShowToc: true

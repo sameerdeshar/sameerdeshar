@@ -1,10 +1,9 @@
 ---
-author: ["Aditya Telange"]
-title: "Code Syntax Guide"
-date: "2019-03-10"
-description: "Sample article showcasing basic code syntax and formatting for HTML elements."
-summary: "Sample article showcasing basic code syntax and formatting for HTML elements."
-tags: ["markdown", "syntax", "code", "gist"]
+author: ["Samir Deshar"]
+title: "Working of half proxy"
+date: "2024-11-10"
+summary: "WHat is half proxy and how it works"
+tags: ["DSR", "proxy", "half-proxy", "response"]
 categories: ["themes", "syntax"]
 series: ["Themes Guide"]
 ShowToc: true
