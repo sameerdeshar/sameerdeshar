@@ -138,11 +138,11 @@ params:
 
   assets:
     disableHLJS: true
-    favicon: "/assets/images/favicon.ico"
-    favicon16x16: "/assets/images/favicon.ico"
-    favicon32x32: "/assets/images/favicon.ico"
-    apple_touch_icon: "/assets/images/favicon.ico"
-    safari_pinned_tab: "/assets/images/favicon.ico"
+    favicon: "/images/logo_hu4952754610953836917.png"
+    favicon16x16: "/images/logo_hu4952754610953836917.png"
+    favicon32x32: "/images/logo_hu4952754610953836917.png"
+    apple_touch_icon: "/images/logo_hu4952754610953836917.png"
+    safari_pinned_tab: "/images/logo_hu4952754610953836917.png"
 
   # cover:
   #     hidden: true # hide everywhere but not in structured data
