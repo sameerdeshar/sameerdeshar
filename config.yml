@@ -42,7 +42,7 @@ languages:
         - name: echo "tags"
           url: tags/
           weight: 15
-        - name: grep -i "🔍"
+        - name: "Search"
           url: search/
           weight: 20
 outputs:
@@ -105,33 +105,24 @@ params:
       <img src="images/profile.jpg" style="border-radius: 50%; width: 100px; height: 100px; object-fit: cover;" alt="Profile">
 
       If you are here you already know me..Let's learn together.
-      <br>
-      <br>
-
-      🚀 **Defender of Digital Frontiers**  
-        With an 🛡️ **F5 Firewall** in hand, I:  
-        - 🔒 Block threats  
-        - 🚦 Manage traffic  
-        - ⚙️ Keep systems running seamlessly  
-        Cybersecurity is my **superpower**! 💻🌐  
 
 
   socialIcons:
     - name: github
       title: Samir Deshar
-      url: "https://github.com/samirdeshar"
+      url: "https://github.com/sameerdeshar"
     - name: Discord
       title: Samir Deshar
-      url: "https://discord.gg/samir"
+      url: ""
     - name: Telegram
       title: Share PaperMod on X/Twi
-      url: "https://t.me/samir"
+      url: ""
     - name: KoFi
       title: Buy me a Ko-Fi :)
       url: "https://ko-fi.com/samirdeshar"
 
   editPost:
-    URL: "https://github.com/samirdeshar/sameer"
+    URL: "https://github.com/sameerdeshar/sameer"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
