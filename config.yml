@@ -102,7 +102,7 @@ params:
     Title: "Meet Samir Deshar 👋"
     Content: > 
     
-      <img src="images/profile.jpg" style="border-radius: 50%; width: 100px; height: 100px; object-fit: cover;" alt="Profile">
+      <img src="/images/profile.jpg" style="border-radius: 50%; width: 100px; height: 100px; object-fit: cover;" alt="Profile">
 
       If you are here you already know me..Let's learn together.
 
