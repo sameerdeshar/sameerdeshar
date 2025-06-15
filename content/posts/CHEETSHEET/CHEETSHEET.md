@@ -1,8 +1,7 @@
 ---
 title: "CHEETSHEET"
 summary: List of essential commands while doing rooms and labs in hackthebox and tryhackme. Or who know you may be h......
-date: 2025-6-15
-aliases: ["/curl_the_world"]
+date: 2025-06-15
 tags:
   - CHEATSHEET
   - HACKTHEBOX
